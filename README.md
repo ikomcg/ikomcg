@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miko</h1>
-<h3 align="center">I'am aspiring Web Developer</h3>
+<h3 align="center">I'am aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikomcg&label=Profile%20views&color=0e75b6&style=flat" alt="ikomcg" /> </p>
 
